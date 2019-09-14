@@ -1,0 +1,13 @@
+{
+  "name": "apollo-session",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "dependencies": {
+    "apollo-server": "^2.9.3",
+    "mongoose": "^5.7.1"
+  }
+}
